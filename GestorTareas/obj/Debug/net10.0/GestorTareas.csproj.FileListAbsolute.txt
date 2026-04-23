@@ -1,0 +1,14 @@
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\bin\Debug\net10.0\GestorTareas.exe
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\bin\Debug\net10.0\GestorTareas.deps.json
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\bin\Debug\net10.0\GestorTareas.runtimeconfig.json
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\bin\Debug\net10.0\GestorTareas.dll
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\bin\Debug\net10.0\GestorTareas.pdb
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfo.cs
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.dll
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\refint\GestorTareas.dll
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.pdb
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\GestorTareas.genruntimeconfig.cache
+C:\Users\idasd\OneDrive\Escritorio\OneDrive\Documentos\IVONNE\1- DAW - CICLO 1\FUNDAMENTOS DE PROGRAMACION\Evaluacion3 FP\GestorTareas\GestorTareas\obj\Debug\net10.0\ref\GestorTareas.dll

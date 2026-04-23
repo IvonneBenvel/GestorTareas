@@ -1,0 +1,2 @@
+1;estudiar;programacion;trabajo;True
+2;salida niños;llevar a la warner a los niños;ocio;True
